@@ -1,0 +1,19 @@
+@media only screen and (max-width: 740px) {
+	h1 { font-size: 4.5em; }
+	h3 { font-size: 2.2em; }
+	h2 { display: block; text-align: center; }
+	
+	
+}
+
+@media only screen and (max-width: 570px) {
+	ul li {
+		display: inline-block; 
+		padding-left: 15px; 
+		width: 140px; 
+		background-position: -5px 0px;
+		margin-right: 6px; 
+		line-height: 1.7em;
+	}
+}
+
